@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent2</string>
+    <string name="result_from_activity" />
+</resources>
